@@ -1,5 +1,3 @@
-from operator import truediv
-from xmlrpc.client import boolean
 
 #string
 print("hello")
