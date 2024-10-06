@@ -1,3 +1,4 @@
+# operators are = == >= <= !=
 #elif
 # DETERMINE what are your grades (A.B.C.D.E)
 
@@ -15,4 +16,5 @@ elif grade >= 50:
        print("your grade is E")
 else:
     print("your grade is F")
+
 
